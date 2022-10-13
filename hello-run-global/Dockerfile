@@ -1,3 +1,6 @@
+#Copyright 2022 Google LLC.
+#SPDX-License-Identifier: Apache-2.0
+
 FROM golang:1.16-buster as builder
 
 WORKDIR /app
